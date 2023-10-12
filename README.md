@@ -1,6 +1,6 @@
 # Git Demo: Hinshaw James
 
-Actually learning Git!
+Actually learning Git!!!!!!!!!!!!
 
 Gonna learn some cool stuff!
 
@@ -9,4 +9,3 @@ Gonna learn some cool stuff!
 - git push
 - git clone
 - git push
-
